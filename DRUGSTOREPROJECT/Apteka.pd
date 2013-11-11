@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel datamodelDbId="null">
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138418411848420" entityLocationX="490" entityLocationY="94" entityWidth="175" tableName="Supplier"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138418540823479" entityLocationX="25" entityLocationY="150" entityWidth="150" tableName="Sale"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138418456660975" entityLocationX="245" entityLocationY="305" entityWidth="150" tableName="Coming"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="138418250545389" entityLocationX="228" entityLocationY="19" entityWidth="150" tableName="Product"/>
+</datamodel>
